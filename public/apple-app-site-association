@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "M562Z8RFTP.com.tmobile.TMOAccess",
+          "8HCCZF4NXR.com.enterprise.genesis.tmobile"
+        ],
+        "components": [
+          {
+            "/": "/tmoapp/*",
+            "comment": "Matches any URL whose path starts with /tmoapp/"
+          }
+        ]
+      }
+    ]
+  }
+}
